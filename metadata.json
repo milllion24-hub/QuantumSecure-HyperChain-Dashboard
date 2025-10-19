@@ -1,0 +1,5 @@
+{
+  "name": "QuantumSecure HyperChain Dashboard",
+  "description": "A web-based dashboard that provides a visual representation of the architecture and real-time status of the conceptual QuantumSecure HyperChain blockchain.",
+  "requestFramePermissions": []
+}
